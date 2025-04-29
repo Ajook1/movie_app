@@ -120,4 +120,5 @@ The app uses the TVMaze API for fetching movie data:
 ## Contact
 
 Your Name - [@Ajook(AKA: Yash Mahajan)
-Project Link: [https://github.com/yourusername/flutter-movie-app](https://github.com/yourusername/flutter-movie-app)
+project link: https://github.com/Ajook1/movie_app
+
